@@ -31,7 +31,7 @@ O projeto **Ignite Feed** simula um blog como posts e comentários além de dar 
 <a id="2"></a>
 ##  :bookmark_tabs: Atualizações
 
-##### Última atualização:  31/12/24
+##### Última atualização:  31/12/23
 
 **:heavy_plus_sign:** Adicionar comentário;
 
