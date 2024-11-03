@@ -7,8 +7,6 @@
 
 :small_blue_diamond: [Descrição do projeto](#1-Descrição-do-projeto)
 
-:small_blue_diamond: [Atualizações](#2)
-
 :small_blue_diamond: [Funcionalidades](#3)
 
 :small_blue_diamond: [Deploy](#4)
@@ -24,21 +22,7 @@
 <a id="1-Descrição-do-projeto"></a>
 ##  :memo: Descrição do projeto 
 
-O projeto **Ignite Feed** simula um blog como posts e comentários além de dar "likes".  Aspecto clean, intuitivo e com ótima experiência de usuário.
-
----
-
-<a id="2"></a>
-##  :bookmark_tabs: Atualizações
-
-##### Última atualização:  31/12/23
-
-**:heavy_plus_sign:** Adicionar comentário;
-
-**:heavy_plus_sign:** Excluir comentário;
-
-**:heavy_plus_sign:** Likes;
-
+O projeto Ignite Feed simula um blog com funcionalidades de postagem, comentários e curtidas. A interface permite aos usuários interagir com os posts, deixando comentários e adicionando 'likes' para demonstrar engajamento.
 
 ---
 
@@ -51,24 +35,6 @@ O projeto **Ignite Feed** simula um blog como posts e comentários além de dar 
 :heavy_check_mark: **Excluir comentário**: remove comentário do post;
 
 :heavy_check_mark: **Likes**: qualifica um comentário adicionando likes;
-
-
->###  Funcionalidades Futuras :
-
-:black_square_button: **Adicionar Post**: o usuário adiciona vários post no blog;
-
-:black_square_button: **Editar Post**: o usuário edita o post do blog;
-
-:black_square_button: **Excluir Post**: o usuário remove o post do blog;
-
-:black_square_button: **Editar Comentário**: o usuário edita o comentário do post;
-
->### Implementações Futuras:
-
-:black_square_button: **API REST**;
-
-:black_square_button: **Banco de Dados**;
-
 
 ---
 <a id="4"></a>
