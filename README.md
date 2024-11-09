@@ -79,9 +79,10 @@ npm run dev
 - HTML
 - CSS
 - Javascript
+- Typescript
 - Vite
 - React
--  Phosphor-react
+- Phosphor-react
 
 
 
